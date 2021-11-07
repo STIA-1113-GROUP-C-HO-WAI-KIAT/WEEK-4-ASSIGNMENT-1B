@@ -30,7 +30,7 @@ public class Assignment1b {
 	    
 	    payment=(loan * (rate/100)) + (loan/60);//CALCULATION MONTHLY PAYMENT
 	    payment2=((loan * (rate/100)) * 60) + (loan);//CALCULATION TOTAL PAYMENT
-	    System.out.printf("%-10s%7.2f%n" , "The monthly payment is :RM" , payment);//PRINT OUT MONTHLU PAYMENT
+	    System.out.printf("%-10s%7.2f%n" , "The monthly payment is :RM" , payment);//PRINT OUT MONTHLY PAYMENT
 	    System.out.printf("%-10s%7.2f" , "The total payment is :RM" , payment2);//PRINT OUT TOTAL PAYMENT
 	    
 	    
