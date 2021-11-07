@@ -15,7 +15,7 @@ public class Assignment1b {
 		
 		Scanner sc = new Scanner (System.in);// SCANNER FOR ENTER NUMBER
 		
-		System.out.println("Enter the rate of interest:");//ENTER THE RATE OF INTEREST
+            System.out.println("Enter the rate of interest:");//ENTER THE RATE OF INTEREST
 	    rate = sc.nextDouble();//ENTER THE RATE
 	    
 	    System.out.println("Enter the number of years:");//ENTER THE YEARS OF LOAN
